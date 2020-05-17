@@ -8,7 +8,7 @@ module.exports = {
   database: 'gobarber',
   port: 5432,
   define: {
-    timestamps: true,
+    timestamps: false,
     underscored: true,
     undercoredAll: true,
   },
